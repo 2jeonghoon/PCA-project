@@ -1,5 +1,5 @@
 > [!NOTE]
-> Currently in progress of development!
+> Development completed
 
 # PCA-PROJECT
 
